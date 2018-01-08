@@ -27,8 +27,6 @@ public class DaoImpl implements IDao {
 		init();
 	}
 
-	Ceci est une erreur volontaire
-	
 	private void init() {
 		// TODO Auto-generated method stub
 		try {
